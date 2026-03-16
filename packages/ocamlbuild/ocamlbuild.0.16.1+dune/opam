@@ -40,3 +40,9 @@ extra-files: [
     "relocatable.patch" "sha256=f3981cbf4e6b4ca8bb1616f451805942461f53168ed987bfd87dcf7e9b8bbc33"
   ]
 ]
+url {
+  src: "https://github.com/gridbugs/ocamlbuild/archive/refs/tags/0.16.1+dune.tar.gz"
+  checksum: [
+    "sha512=9bf33e2e3cd70495c6ff5987f7e8c1c2fb3dccb02da490140726fed3b374489cb93d500f57bea32a1a71da1c9d3dd207e4"
+  ]
+}
